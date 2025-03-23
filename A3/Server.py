@@ -1,6 +1,14 @@
 import socket
 import threading
 import random
+import logging
+
+logging.basicConfig(
+    filename='server_log.txt',
+    level=logging.INFO,
+    format='%(asctime)s [%(levelname)s] %(message)s'
+)
+
 
 class Server:
     # panda emojis and facts:
