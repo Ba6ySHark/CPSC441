@@ -1,0 +1,11 @@
+2025-03-23 15:31:35,963 [INFO] 🐼 Panda Chat Server running on 127.0.0.1:12345 🐼
+2025-03-23 15:31:42,840 [INFO] New connection from ('127.0.0.1', 49964)
+2025-03-23 15:31:42,840 [INFO] purring-lurking-pheasant-of-education connected.
+2025-03-23 15:31:42,840 [INFO] Broadcasting message: purring-lurking-pheasant-of-education has joined the Panda Chat!
+
+2025-03-23 15:31:58,905 [INFO] Broadcasting message: purring-lurking-pheasant-of-education: Hello!
+2025-03-23 15:32:12,277 [INFO] Broadcasting message: purring-lurking-pheasant-of-education has left the Panda Chat.
+2025-03-23 15:32:12,277 [INFO] purring-lurking-pheasant-of-education disconnected (via @leaves).
+2025-03-23 15:32:12,277 [INFO] purring-lurking-pheasant-of-education removed from client list.
+2025-03-23 15:32:22,437 [INFO] Server shutting down via KeyboardInterrupt.
+2025-03-23 15:32:22,438 [INFO] Server socket closed.
