@@ -9,3 +9,49 @@
 2025-03-23 15:32:12,277 [INFO] purring-lurking-pheasant-of-education removed from client list.
 2025-03-23 15:32:22,437 [INFO] Server shutting down via KeyboardInterrupt.
 2025-03-23 15:32:22,438 [INFO] Server socket closed.
+2025-03-23 16:02:34,075 [INFO] 🐼 Panda Chat Server running on 127.0.0.1:12345 🐼
+2025-03-23 16:03:11,373 [INFO] New connection from ('127.0.0.1', 50365)
+2025-03-23 16:03:11,374 [INFO] lush-urban-raccoon-of-promotion connected.
+2025-03-23 16:03:11,375 [INFO] Broadcasting message: lush-urban-raccoon-of-promotion has joined the Panda Chat!
+
+2025-03-23 16:03:14,079 [INFO] New connection from ('127.0.0.1', 50366)
+2025-03-23 16:03:14,080 [INFO] fluorescent-speedy-reindeer-of-debate connected.
+2025-03-23 16:03:14,080 [INFO] Broadcasting message: fluorescent-speedy-reindeer-of-debate has joined the Panda Chat!
+
+2025-03-23 16:03:20,839 [INFO] Broadcasting message: fluorescent-speedy-reindeer-of-debate: Hello!
+2025-03-23 16:03:27,073 [INFO] Broadcasting message: lush-urban-raccoon-of-promotion: Hi!
+2025-03-23 16:03:56,588 [INFO] Broadcasting message: fluorescent-speedy-reindeer-of-debate has left the Panda Chat.
+2025-03-23 16:03:56,589 [INFO] fluorescent-speedy-reindeer-of-debate disconnected (via @leaves).
+2025-03-23 16:03:56,589 [INFO] fluorescent-speedy-reindeer-of-debate removed from client list.
+2025-03-23 16:04:24,604 [INFO] New connection from ('127.0.0.1', 50380)
+2025-03-23 16:04:24,606 [INFO] anyName connected.
+2025-03-23 16:04:24,606 [INFO] Broadcasting message: anyName has joined the Panda Chat!
+
+2025-03-23 16:04:32,770 [INFO] Broadcasting message: anyName: weddfwee
+2025-03-23 16:04:38,255 [INFO] Broadcasting message: anyName has left the Panda Chat.
+2025-03-23 16:04:38,255 [INFO] anyName disconnected (via @leaves).
+2025-03-23 16:04:38,255 [INFO] anyName removed from client list.
+2025-03-23 16:04:47,072 [INFO] Broadcasting message: lush-urban-raccoon-of-promotion has left the Panda Chat.
+2025-03-23 16:04:47,072 [INFO] lush-urban-raccoon-of-promotion disconnected (via @leaves).
+2025-03-23 16:04:47,072 [INFO] lush-urban-raccoon-of-promotion removed from client list.
+2025-03-23 16:04:50,221 [INFO] Server shutting down via KeyboardInterrupt.
+2025-03-23 16:04:50,222 [INFO] Server socket closed.
+2025-03-24 18:50:37,145 [INFO] 🐼 Panda Chat Server running on 127.0.0.1:12345 🐼
+2025-03-24 18:50:48,834 [INFO] New connection from ('127.0.0.1', 55487)
+2025-03-24 18:50:48,836 [INFO] towering-electric-ant-of-shopping connected.
+2025-03-24 18:50:48,836 [INFO] Broadcasting message: towering-electric-ant-of-shopping has joined the Panda Chat!
+
+2025-03-24 18:51:37,959 [INFO] New connection from ('127.0.0.1', 55516)
+2025-03-24 18:51:37,960 [INFO] aromatic-vengeful-capybara-of-elevation connected.
+2025-03-24 18:51:37,960 [INFO] Broadcasting message: aromatic-vengeful-capybara-of-elevation has joined the Panda Chat!
+
+2025-03-24 18:51:44,151 [INFO] Broadcasting message: towering-electric-ant-of-shopping: nigga
+2025-03-24 18:52:04,544 [INFO] Broadcasting message: towering-electric-ant-of-shopping: blacko
+2025-03-24 18:52:15,387 [INFO] Broadcasting message: aromatic-vengeful-capybara-of-elevation has left the Panda Chat.
+2025-03-24 18:52:15,388 [INFO] aromatic-vengeful-capybara-of-elevation disconnected (via @leaves).
+2025-03-24 18:52:15,388 [INFO] aromatic-vengeful-capybara-of-elevation removed from client list.
+2025-03-24 18:52:32,237 [INFO] Broadcasting message: towering-electric-ant-of-shopping has left the Panda Chat.
+2025-03-24 18:52:32,237 [INFO] towering-electric-ant-of-shopping disconnected (via @leaves).
+2025-03-24 18:52:32,237 [INFO] towering-electric-ant-of-shopping removed from client list.
+2025-03-24 18:52:36,798 [INFO] Server shutting down via KeyboardInterrupt.
+2025-03-24 18:52:36,798 [INFO] Server socket closed.
